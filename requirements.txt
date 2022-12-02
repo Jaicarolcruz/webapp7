@@ -1,5 +1,6 @@
 # Date: 11-14-2022
 Flask==2.2.2
+gunicorn==19.9.0
 matplotlib==3.5.3
 mysql-connector==2.2.9
 nest-asyncio==1.5.6
