@@ -63,7 +63,6 @@ scipy==1.7.3
 semver==2.13.0
 six==1.16.0
 smmap==5.0.0
-SQLAlchemy==1.4.41
 sqlalchemy-migrate==0.13.0
 sqlalchemy2-stubs==0.0.2a29
 sqlmodel==0.0.8
