@@ -20,7 +20,7 @@
     "from flask import Flask \n",
     "  \n",
     "app = Flask(__name__) \n",
-    "  \n",
+        "app.run(debug=True, port=33507) \n",
     "@app.route(\"/\") \n",
     "def home_view(): \n",
     "        return \"<h1>Welcome to NS Facutly Database!</h1>\""
