@@ -1,1 +1,1 @@
-web: gunicorn exec app.py server -p $PORT
+web: gunicorn app: app
